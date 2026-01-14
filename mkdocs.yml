@@ -1,0 +1,16 @@
+site_name: Well come to My Profile 
+site_description: A collection of my work and projects.
+
+nav:
+  - Home: index.md
+  - Projects: projects.md
+  - Skills: skills.md
+  - Blogs: blogs.md
+  - Resume: resume.md
+  - About Me: about.md
+  
+theme:
+  name: mkdocs
+#   palette:
+#     primary: 'indigo'
+#     accent: 'pink'
